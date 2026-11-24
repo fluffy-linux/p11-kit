@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/sw/bash/bin/bash
 
 # This script is a placeholder designed to be replaced when this software
 # has been customized for distribution. It should be symlinked linked to the
