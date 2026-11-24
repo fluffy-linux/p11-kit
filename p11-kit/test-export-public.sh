@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/sw/bash/bin/bash
 
 # Test public key export from mock-twelve.so (mock-module-ep10.c).
 

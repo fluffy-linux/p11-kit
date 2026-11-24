@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/sw/bash/bin/bash
 
 test "${abs_top_builddir+set}" = set || {
 	echo "set abs_top_builddir" 1>&2
